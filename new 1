@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>membuka link halaman satu folder</title>
+</head>
+<body>
+<a href="login.html">Klik di sini untuk membuka login.html</a>
+</body>
+</html>
